@@ -145,7 +145,7 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 (201) 315-5737
+    - title: +1 (973) 527-7140
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
