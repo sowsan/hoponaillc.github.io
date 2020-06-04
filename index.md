@@ -1,9 +1,9 @@
 ---
 layout: home
 header:
-  title: Solution to run business Social Platforms.
+  title: Solution to run business in Social Platforms.
   text: >
-    A simple solution to start and grow your business using Whatsapp for Business and Facebook Messenger !
+    A simple solution to start and grow your business using Whatsapp for Business and Facebook Messenger for small and medium business!
   action: # action button is optional
     label: Find Out More
     url: '#about'
