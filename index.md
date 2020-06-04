@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: A solution to build and run your business in WhatsApp for Business and Facebook Messenger Social Platforms.
   text: >
     Start Bootstrap can help you build better websites using the Bootstrap
     framework! Just download a theme and start customizing, no strings attached!
