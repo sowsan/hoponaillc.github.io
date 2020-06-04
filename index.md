@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: Solution to run your business in WhatsApp and Facebook Messenger Social Platforms.
+  title: Solution to run business Social Platforms.
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    A simple solution to start and grow your business using Whatsapp for Business and Facebook Messenger !
   action: # action button is optional
     label: Find Out More
     url: '#about'
