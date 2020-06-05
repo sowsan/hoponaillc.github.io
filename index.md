@@ -38,14 +38,6 @@ sections:
       - title: Made with Love
         text: You have to make your websites with love these days!
         icon: fa-heart
-
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
  
   - type: contact.html
     section_id: contacts
