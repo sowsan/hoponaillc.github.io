@@ -7,8 +7,7 @@ header:
   action: # action button is optional
     label: Find Out More
     url: '#about'
-
-
+    
 sections:
   - type: call-to-action.html
     section_id: about
@@ -50,11 +49,7 @@ sections:
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:hoponai@outlook.com
-    - title: Twitter
-      icon: fa-twitter
-      icon_type: fab
-      url: '#'
+      url: mailto:hoponai@outlook.com  
     - title: Facebook
       icon: fa-facebook
       icon_type: fab
