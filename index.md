@@ -30,7 +30,7 @@ sections:
         url: https://startbootstrap.com/
       - title: Instagram
         text: You can use this theme as is, or you can make changes!
-        icon: fa-instagram-square
+        icon: fa-instagram
       - title: Whatsapp
         text: We update dependencies to keep things fresh.
         icon: fa-whatsapp-square 
