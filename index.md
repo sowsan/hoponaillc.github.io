@@ -30,10 +30,10 @@ sections:
         url: https://startbootstrap.com/
       - title: Ready to Ship
         text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
+        icon: fa-instagram
       - title: Up to Date
         text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
+        icon: fa-whatsapp
       - title: Made with Love
         text: You have to make your websites with love these days!
         icon: fa-heart
