@@ -24,19 +24,19 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Sturdy Templates
+      - title: Facebook Messenger
         text: Our templates are updated regularly so they don't break.
         icon: fa-facebook-messenger
         url: https://startbootstrap.com/
-      - title: Ready to Ship
+      - title: Instagram
         text: You can use this theme as is, or you can make changes!
-        icon: fa-instagram
-      - title: Up to Date
+        icon: fa-instagram-square
+      - title: Whatsapp
         text: We update dependencies to keep things fresh.
-        icon: fa-whatsapp
-      - title: Made with Love
+        icon: fa-whatsapp-square
+      - title: Phone
         text: You have to make your websites with love these days!
-        icon: fa-heart
+        icon: fa-phone-square
  
   - type: contact.html
     section_id: contacts
