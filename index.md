@@ -33,11 +33,7 @@ sections:
         icon: fa-instagram-square
       - title: Whatsapp
         text: We update dependencies to keep things fresh.
-        icon: fa-whatsapp-square
-      - title: Phone
-        text: You have to make your websites with love these days!
-        icon: fa-phone-square
- 
+        icon: fa-whatsapp-square 
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
